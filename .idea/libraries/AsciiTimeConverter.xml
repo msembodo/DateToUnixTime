@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AsciiTimeConverter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AsciiTimeConverter/out/artifacts/AsciiTimeConverter_jar/AsciiTimeConverter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

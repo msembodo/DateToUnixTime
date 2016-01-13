@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DateToUnixTime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DateToUnixTime_jar</output-path>
+    <root id="archive" name="DateToUnixTime.jar">
+      <element id="module-output" name="DateToUnixTime" />
+      <element id="extracted-dir" path="$USER_HOME$/javalib/miglayout-core-5.1-20151231.230011-278.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javalib/opencsv-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javalib/miglayout-javafx-5.1-20151231.230034-278.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../AsciiTimeConverter/out/artifacts/AsciiTimeConverter_jar/AsciiTimeConverter.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
